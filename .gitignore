@@ -1,0 +1,18 @@
+# Raw datasets
+data/raw/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+
+# Operating system
+.DS_Store
+Thumbs.db
